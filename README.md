@@ -1,8 +1,30 @@
-# React + Vite
+# Wooden Fish Knock Knock (React Ver.)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Description
 
-Currently, two official plugins are available:
+A small project for me to try something new (Bun, Zustand, Howler.js, Framer Motion, etc.).
+You can knock on wooden fish (or replace to your boss's head!) to calm yourself down.
+There's a version of this project developed with Vue: [Wooden Fish Knock Knock (Vue Ver.)](https://github.com/unicornGL/wooden-fish-knock-knock-vue-ver)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Features
+
+ongoing...
+
+### Technical Stack
+
+- Language: TypeScript
+- JS Framework: React
+- Component Style: Functional Components with Hooks
+- CSS Framework: MUI (Material-UI)
+- State Management: Zustand
+- Routing: React Router
+- Audio Processing: Howler.js
+- Animation: Framer Motion
+- Internationalization: React Intl
+- Testing Framework: Jest + RTL (React Testing Library)
+- Code Formatting: ESLint + Prettier
+- Build Tool: Vite
+- Package Manager: Bun
+- Runtime Environment: Bun
+- Version Control: Git
+- CI/CD Platform: GitHub Actions
