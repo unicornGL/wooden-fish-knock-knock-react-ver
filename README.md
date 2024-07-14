@@ -2,7 +2,7 @@
 
 ### Description
 
-A small project for me to try something new (Bun, Zustand, Howler.js, Framer Motion, etc.).
+A small project for me to try something new (Bun, Zustand, Howler.js, Framer Motion, GitHub Actions, etc.).
 You can knock on wooden fish (or replace to your boss's head!) to calm yourself down.
 There's a version of this project developed with Vue: [Wooden Fish Knock Knock (Vue Ver.)](https://github.com/unicornGL/wooden-fish-knock-knock-vue-ver)
 
